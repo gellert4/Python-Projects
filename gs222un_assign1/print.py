@@ -1,0 +1,10 @@
+print("Knowledge is power!\n")
+print("Knowledge")
+print("   is")
+print("  Power!\n")
+a = 25 * "="
+print(a)
+print("|                       |")
+print("|  Knowledge is power!  |")
+print("|                       |")
+print(a)
